@@ -1,5 +1,7 @@
 # rails_command
 
+bundle install --without production
+
 查看路由 ： 
 rake routes 
 
